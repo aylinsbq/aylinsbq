@@ -23,8 +23,18 @@
 		<img src="https://img.icons8.com/doodle/50/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="mailto:quinosarai@gmail.com">
 				<img src="https://img.icons8.com/?size=50&id=CXYJjRfKlwI9&format=png&color=000000"></a>
+ </div>
 
 </p>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: Kotlin took its name from Kotlin Island 🏝️📱
+<ul>
+  <li>
+    My Apps 
+    <a href="https://play.google.com/store/apps/developer?id=ASBQ" target="_blank">
+      <img src="https://img.icons8.com/?size=50&id=NlSOluQsZbHP&format=png&color=000000" align="center" alt="Play Store" width="20" style="vertical-align: middle;">
+    </a>
+    <ul>
+      <li><a href="https://play.google.com/store/apps/details?id=com.pomi.pomodoro" target="_blank">Pomi Pomodoro 🍅</a></li>
+    </ul>
+  </li>
+</ul>
